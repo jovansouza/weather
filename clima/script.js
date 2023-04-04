@@ -1,4 +1,4 @@
-const apikey = "22abaa27602063daef2c17d76e96fa7b";
+const apikey = "";
 const apicountryurl="https://flagcdn.com/16x12/.png";
 
 const cityinput = document.querySelector("#city-input");
